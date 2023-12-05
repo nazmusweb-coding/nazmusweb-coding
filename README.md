@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nazmus Sakib</h1>
+<div align="center"> <img src="https://raw.githubusercontent.com/nazmusweb-coding/nazmusweb-coding/main/Banner1_0.avif"> </div>
 <h3 align="center">Enthusiastic backend developer skilled in Machine Learning, NLP, SQL, DevOps, Python, and Django. Based in Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmusweb-coding&label=Profile%20views&color=0e75b6&style=flat" alt="nazmusweb-coding" /> </p>
